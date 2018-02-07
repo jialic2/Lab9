@@ -1,3 +1,4 @@
+
 /**
  * Class that implements a Pokemon.
  * <p>
